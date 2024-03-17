@@ -1,0 +1,10 @@
+[web_servers]
+192.168.56.105 ansible_ssh_user=root ansible_ssh_pass=99Castillo03523
+192.168.56.103
+
+[db_servers]
+192.168.56.101
+
+[file_servers]
+192.168.56.104
+
